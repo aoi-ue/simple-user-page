@@ -8,9 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] Create page routing between login and about page with React Router 
 - [x] Invalidate unauthorised users with controlled form	
 - [x] Completed Form validations: e.g.: mandatory fields, min 8 characters etc 
-- [x] Consumed API with **Axios** https://www.melivecode.com/ for Log-in and AboutPage 
+- [x] Consumed API with **Fetch API** with https://www.melivecode.com/ for Log-in and AboutPage 
 - [x] Using styled component method but in **Material UI** standard with Mobile First consideration 
-- [ ] Audited unused code 
+- [x] Audited unused code 
 - [ ] Performe TDD with unit testing in Jest and React Testing Library  
 
 ## Available Scripts
@@ -19,7 +19,6 @@ In the project directory, you can run:
 
 ### `npm install` or `yarn install`
 Install dependency packages to run project 
-
 
 ### `npm start` or `yarn start`
 
