@@ -1,5 +1,4 @@
 import React from 'react';
-// import './App.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Login from './Login';
 import AboutPage from './AboutPage';
@@ -7,7 +6,7 @@ import AboutPage from './AboutPage';
 function App() {
   const token = localStorage.getItem('accessToken');
 
-  if(!token) {
+  if (!token) {
     return <Login />
   }
 
