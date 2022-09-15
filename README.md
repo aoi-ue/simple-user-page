@@ -6,9 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Features 
 
 - [x] Create page routing between login and about page with React Router 
-- [x] Invalidate unauthorised users with controlled form 
-- [x] Consumed API with Axios https://www.melivecode.com/ for Loging and AboutPage 
-- [x] Using styled component method but in material UI standard with Mobile First consideration 
+- [x] Invalidate unauthorised users with controlled form	
+- [x] Completed Form validations: e.g.: mandatory fields, min 8 characters etc 
+- [x] Consumed API with **Axios** https://www.melivecode.com/ for Log-in and AboutPage 
+- [x] Using styled component method but in **Material UI** standard with Mobile First consideration 
 - [ ] Audited unused code 
 - [ ] Performe TDD with unit testing in Jest and React Testing Library  
 
@@ -82,4 +83,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# simple-user-page
