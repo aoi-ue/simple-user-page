@@ -1,12 +1,26 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), with two simple pages: login and user pages. 
+
+
+## Features 
+
+- [x] Create page routing between login and about page with React Router 
+- [x] Invalidate unauthorised users with controlled form 
+- [x] Consumed API with Axios https://www.melivecode.com/ for Loging and AboutPage 
+- [x] Using styled component method but in material UI standard with Mobile First consideration 
+- [ ] Audited unused code 
+- [ ] Performe TDD with unit testing in Jest and React Testing Library  
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install` or `yarn install`
+Install dependency packages to run project 
+
+
+### `npm start` or `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
